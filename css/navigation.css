@@ -1,0 +1,13 @@
+.navigation{
+    display: grid;
+    place-items: center;
+    height: 50px;
+    width: 50px;
+    font-size: 2rem;
+    color: #76045D;
+    background-color: white;
+}
+
+.produto__navigation-container{
+    display: flex;
+}
