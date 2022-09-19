@@ -6,6 +6,7 @@
     font-size: 2rem;
     color: #76045D;
     background-color: white;
+    border: 1px solid gray;
 }
 
 .produto__navigation-container{
