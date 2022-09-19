@@ -1,0 +1,24 @@
+.info{
+    background-color: black;
+    width: 200px;
+    height: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: .75rem;
+    gap: 8px;
+}
+
+.info__number{
+    font-weight: 600;
+}
+
+.info__type{
+    font-weight: 800;
+}
+
+.info__value{
+    font-weight: 400;
+}
